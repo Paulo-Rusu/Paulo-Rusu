@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Paulo-Rusu
-- 👀 I’m interested in giving my contribute to projects that will revolutionize the world 
+- 👀 I’m interested in giving my contribute to projects that will revolutionise the world 
 - 🌱 I’m currently a junior developper, improving my programming skils every day. 
 - 💞️ I’m looking to collaborate on various projects where a part of me will stay forever  
 - 📫 How to reach me ...
